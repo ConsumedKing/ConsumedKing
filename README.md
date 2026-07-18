@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 I go by : consumedking, cyberboy
 - 💻 Programming Languages I Know : C/C++, Python, Java & Javascript
 - 📚 Shelf : OSTEP , SQL Performace , CSS Mastery , Django For Beginners , Two Scoops of Django (Certian Chapters about Proxy Models)
+- ![](https://komarev.com/ghpvc/?username=GigaArchitect&style=flat-square)
